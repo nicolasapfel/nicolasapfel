@@ -10,16 +10,13 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/TotaroApfel
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/nicolasapfel
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/nicolas-apfel-45212a75/
 organizations: []
 education:
   courses:
