@@ -1,7 +1,7 @@
 ---
 title: Nicolas Apfel
 role: Postdoc at University of Surrey
-avatar_filename: apfelnicolas-applicationmpi.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include labor economics, trade and applied
   econometrics with a focus on statistical learning.
 interests: []
