@@ -1,14 +1,5 @@
 ---
-abstract: Abstract
-slides: example
-url_pdf: ""
-publication_types:
-  - "3"
-authors:
-  - Nicolas Apfel
-author_notes: []
-publication: ""
-summary: "Many economic studies use shift-share instruments to estimate causal
+abstract: "Many economic studies use shift-share instruments to estimate causal
   effects. Often, all shares need to fulfill an exclusion restriction, making
   the identifying assumption strict. This paper proposes to use methods that
   relax the exclusion restriction by selecting invalid shares. I apply the
@@ -17,6 +8,15 @@ summary: "Many economic studies use shift-share instruments to estimate causal
   application, the coefficient becomes lower and often changes sign, but this is
   reconcilable with arguments made in the literature. In the second application,
   the findings are mostly robust to the use of the new methods."
+slides: example
+url_pdf: ""
+publication_types:
+  - "3"
+authors:
+  - Nicolas Apfel
+author_notes: []
+publication: ""
+summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
