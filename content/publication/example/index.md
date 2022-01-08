@@ -8,9 +8,15 @@ authors:
   - Nicolas Apfel
 author_notes: []
 publication: ""
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: "Many economic studies use shift-share instruments to estimate causal
+  effects. Often, all shares need to fulfill an exclusion restriction, making
+  the identifying assumption strict. This paper proposes to use methods that
+  relax the exclusion restriction by selecting invalid shares. I apply the
+  methods in simulations and two empirical examples: the effect of immigration
+  on wages and of Chinese import exposure on employment. In the first
+  application, the coefficient becomes lower and often changes sign, but this is
+  reconcilable with arguments made in the literature. In the second application,
+  the findings are mostly robust to the use of the new methods."
 url_dataset: ""
 url_project: ""
 publication_short: ""
@@ -24,12 +30,12 @@ tags: []
 projects:
   - example
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00Z
+date: 2022-01-08T22:08:00.790Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
