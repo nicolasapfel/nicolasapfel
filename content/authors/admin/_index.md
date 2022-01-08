@@ -20,15 +20,18 @@ social:
 organizations: []
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Economics
+      institution: University of Regensburg, Joint Doctoral School with LMU Munich
+      year: 2021
+    - course: MSc Economics
+      institution: University of Regensburg
+      year: 2017
+    - course: BA Governance and Public Policy
+      institution: " University of Passau"
+      year: 2015
+    - course: Exchange Year
+      institution: Fudan University
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
