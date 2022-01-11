@@ -1,5 +1,5 @@
 ---
-widget: featured
+widget: publication
 widget_id: publication
 headless: true
 weight: 150
