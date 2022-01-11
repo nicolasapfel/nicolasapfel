@@ -1,5 +1,5 @@
 ---
-widget: featured
+widget: pages
 widget_id: working-papers
 headless: true
 weight: 90
