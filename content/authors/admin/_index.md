@@ -37,6 +37,10 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Work in Progress
+<!--StartFragment-->
+
+In my research, I apply and develop **statistical learning** to address problems of **causal inference** in **labor economics and trade**.
+
+<!--EndFragment-->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
