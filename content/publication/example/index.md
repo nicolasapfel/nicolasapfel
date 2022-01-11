@@ -1,5 +1,5 @@
 ---
-abstract: "Many economic studies use shift-share instruments to estimate causal
+abstract: "TEST TEST TESTMany economic studies use shift-share instruments to estimate causal
   effects. Often, all shares need to fulfill an exclusion restriction, making
   the identifying assumption strict. This paper proposes to use methods that
   relax the exclusion restriction by selecting invalid shares. I apply the
