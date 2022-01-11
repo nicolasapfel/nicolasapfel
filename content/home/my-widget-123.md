@@ -1,10 +1,11 @@
 ---
 widget: featured
-widget_id: my-widget-123
+widget_id: featured
 headless: true
-weight: 10
+weight: 80
 title: Featured Publications
 subtitle: ""
+active: true
 content:
   page_type: publication
   count: 0
@@ -14,7 +15,6 @@ content:
     publication_type: ""
     tag: ""
   order: desc
-active: true
 design:
   columns: "2"
   background:
