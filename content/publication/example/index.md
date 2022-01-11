@@ -25,7 +25,7 @@ url_video: ""
 title: Relaxing the Exclusion Restriction in Shift-Share Instrumental Variable
   Estimation
 doi: ""
-featured: true
+featured: false
 tags: []
 projects:
   - example
