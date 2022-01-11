@@ -1,6 +1,6 @@
 ---
 widget: featured
-widget_id: working-papers
+widget_id: publications
 headless: true
 weight: 20
 title: Publications
