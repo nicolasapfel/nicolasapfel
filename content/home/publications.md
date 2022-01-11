@@ -1,8 +1,8 @@
 ---
-widget: pages
+widget: featured
 widget_id: publications
 headless: true
-weight: 20
+weight: 50
 title: Publications
 subtitle: ""
 active: false
