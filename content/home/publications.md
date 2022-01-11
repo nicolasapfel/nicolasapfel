@@ -5,6 +5,7 @@ headless: true
 weight: 90
 title: Working Papers
 subtitle: ""
+active: true
 content:
   filters:
     folders:
