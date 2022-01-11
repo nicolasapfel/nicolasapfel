@@ -39,7 +39,7 @@ highlight_name: true
 ---
 <!--StartFragment-->
 
-In my research, I apply and develop **statistical learning** to address problems of **causal inference** in **labor economics and trade**.
+In my research, I apply and develop **statistical learning** methods to address problems of **causal inference** in **labor economics and trade**.
 
 <!--EndFragment-->
 
