@@ -2,7 +2,7 @@
 title: Agglomerative Hierarchical Clustering for Selecting Valid Instrumental
   Variables
 publication_types:
-  - "0"
+  - "3"
 authors:
   - Nicolas Apfel and Xiaoran Liang
 abstract: We propose a procedure, which combines hierarchical clustering with a
