@@ -3,7 +3,8 @@ title: Agglomerative Hierarchical Clustering for Selecting Valid Instrumental
   Variables
 publication_types:
   - "0"
-authors: []
+authors:
+  - Nicolas Apfel and Xiaoran Liang
 abstract: We propose a procedure, which combines hierarchical clustering with a
   test of overidentifying restrictions for selecting valid instrumental
   variables (IV) from a large set of IVs. Some of these may be invalid in that
