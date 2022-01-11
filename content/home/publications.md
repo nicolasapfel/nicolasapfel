@@ -2,7 +2,7 @@
 widget: pages
 widget_id: "#featured"
 headless: true
-weight: 20
+weight: 150
 title: Publications
 subtitle: ""
 active: true
