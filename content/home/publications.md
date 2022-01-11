@@ -3,7 +3,7 @@ widget: featured
 widget_id: working-papers
 headless: true
 weight: 20
-title: Working Papers
+title: Publications
 subtitle: ""
 active: true
 content:
