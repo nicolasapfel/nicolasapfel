@@ -43,6 +43,6 @@ social:
 superuser: true
 title: Nicolas Apfel
 ---
-Public Announcement: Chak Chak is my new favorite food! In my research, I apply and develop statistical learning methods to address problems of causal inference in labor economics and trade.
+THIS PAGE IS WORK IN PROGRESS. In my research, I apply and develop statistical learning methods to address problems of causal inference in labor economics and trade.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
