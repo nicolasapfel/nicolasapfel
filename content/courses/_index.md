@@ -7,4 +7,7 @@ type: page
 view: 2
 ---
 
-I teach the following courses:
+I taught the following courses: 
+2019/20: Advanced Microeconomics (graduate)
+2017/18 and 18/19: Industrial Organization (undergraduate)
+2018/19: Microeconomics II (undergraduate)
