@@ -1,5 +1,5 @@
 ---
-bio: THIS PAGE IS WORK IN PROGRESS. I am a postdoctoral researcher at the University of Surrey. I apply and develop machine learning methods to address problems of causal inference in economics. 
+bio: I am an economist and statistician interested in applying and developing statistical learning techniques to address problems of causal inference in labor economics and trade. I am also a language nerd. 
 education:
   courses:
   - course: PhD in Economics

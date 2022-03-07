@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: n.apfel at surrey dot ac dot uk
-phone: 888 888 88 88
+#phone: 888 888 88 88
 address:
   street: Elizabeth Fry Building, University of Surrey
   city: Guildford
@@ -30,9 +30,9 @@ address:
   country: United Kingdom
   country_code: UK
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: My office is inspired by Harry Potter, next to the stairs, on level 1/2.
+  latitude: '51.243158927494974'
+  longitude: '-0.5904745864887648'
+directions: My office is inspired by Harry Potter, under the stairs, on level 1/2.
 
 # Site header
 
