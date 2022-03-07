@@ -43,6 +43,6 @@ social:
 superuser: true
 title: Nicolas Apfel
 ---
-THIS PAGE IS WORK IN PROGRESS. In my research, I apply and develop statistical learning methods to address problems of causal inference in labor economics and trade.
+I am an economist and statistician interested in applying and developing statistical learning techniques to address problems of causal inference in labor economics and trade. I am also a language nerd.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
