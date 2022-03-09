@@ -4,7 +4,7 @@ header:
   image: ""
 title: Courses
 type: page
-view: 2
+view: 1
 ---
 
 I taught the following courses: 

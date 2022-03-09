@@ -6,10 +6,6 @@ title: "\U0001F4CA Learn Data Science"
 type: book
 ---
 
-{{< figure src="featured.jpg" >}}
-
-{{< toc hide_on="xl" >}}
-
 ## What you will learn
 
 - Fundamental {{<hl>}}Python programming skills{{</hl>}}

@@ -1,13 +1,14 @@
 ---
-title: Agglomerative Hierarchical Clustering
-author: Nicolas Apfel
+url_pdf: https://arxiv.org/abs/2101.05774
+abstract: We propose a procedure, which combines hierarchical clustering with a test of overidentifying restrictions for selecting valid instrumental variables (IV) from a large set of IVs. Some of these may be invalid in that they fail the exclusion restriction. We show that if the largest group of IVs is valid, our method achieves oracle properties. Unlike existing techniques, our method addresses weak instruments, multiple endogenous regressors and heterogeneous treatment effects. In simulations our procedure outperforms the Hard Thresholding and the Confidence Interval method. The method is applied to estimating the effect of immigration on wages and the return to education.
+title: Agglomerative Hierarchical Clustering for Selecting Valid Instrumental Variables
+author: Nicolas Apfel and Xiaoran Liang
 date: '2021'
 slug: agglomerative-hierarchical-clustering
 categories: []
-tags: []
 subtitle: ''
-summary: ''
-authors: []
+summary: 'We propose a procedure, which combines hierarchical clustering with a test of overidentifying restrictions for selecting valid instrumental variables (IV) from a large set of IVs. Some of these may be invalid in that they fail the exclusion restriction. We show that if the largest group of IVs is valid, our method achieves oracle properties. Unlike existing techniques, our method addresses weak instruments, multiple endogenous regressors and heterogeneous treatment effects. In simulations our procedure outperforms the Hard Thresholding and the Confidence Interval method. The method is applied to estimating the effect of immigration on wages and the return to education.'
+authors: [Nicolas Apfel and Xiaoran Liang]
 lastmod: '2022-01-14T13:52:21+01:00'
 featured: no
 image:

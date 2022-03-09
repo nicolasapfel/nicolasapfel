@@ -3,13 +3,28 @@ abstract: "Many economic studies use shift-share instruments to estimate causal 
 authors: 
 - admin
 date: "2021"
-featured: false
-url_pdf: https://arxiv.org/abs/2101.05774
+doi: ""
+featured: true
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+links:
+- name: 
+  url: 
+projects:
+- internal-project
+publication: In *Source Themes Conference*
+publication_short: In *STC*
+publication_types:
+- "1"
 publishDate: "2021-01-01T00:00:00Z"
+slides: example
 summary: "Many economic studies use shift-share instruments to estimate causal effects. Often, all shares need to fulfill an exclusion restriction, making the identifying assumption strict. This paper proposes to use methods that relax the exclusion restriction by selecting invalid shares. I apply the methods in simulations and two empirical examples: the effect of immigration on wages and of Chinese import exposure on employment. In the first application, the coefficient becomes lower and often changes sign, but this is reconcilable with arguments made in the literature. In the second application, the findings are mostly robust to the use of the new methods."
 tags:
 - Source Themes
 title: Relaxing the Exclusion Restriction in Shift-Share Instrumental Variable Estimation
+url_dataset: '#'
 ---
 
 {{% callout note %}}
