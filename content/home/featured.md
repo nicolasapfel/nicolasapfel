@@ -4,7 +4,7 @@
 widget: featured
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Featured Publication
+title: Publications
 subtitle: ""
 
 content:
